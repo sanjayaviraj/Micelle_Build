@@ -1,5 +1,5 @@
 # Micelle_Build
-A vmd code to orient monomers in a micelle
+A vmd(Visual Molecular Dynamics) code to orient monomers in a micelle
 # STEP 1
 Load your monomer(with a psf file) in to vmd.
 # STEP 2
