@@ -1,3 +1,5 @@
+
+![GitHub Downloads (specific asset, specific tag)](https://img.shields.io/github/downloads/sanjayaviraj/Micelle_Build/v1.0.0/micelle_build_v1.tcl?logoColor=green)
 # Micelle_Arge
 A vmd(Visual Molecular Dynamics) code to orient monomers in a micelle
 # STEP 1
